@@ -8,3 +8,5 @@ ifconfig.co
 whatismyip.com
 whatismyipaddress.com
 surfshark.com
+hp.com
+intel.com
