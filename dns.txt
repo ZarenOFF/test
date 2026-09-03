@@ -4,3 +4,7 @@ httptoolkit.com
 ifconfig.me
 claude.com
 radarr.video
+ifconfig.co
+whatismyip.com
+whatismyipaddress.com
+surfshark.com
